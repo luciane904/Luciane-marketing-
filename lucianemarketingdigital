@@ -1,1 +1,49 @@
 
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Luciane Marketing Digital</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; background-color: #f4f4f4; color: #333; }
+        header { background: linear-gradient(90deg, #4CAF50, #45a049); color: white; padding: 20px; text-align: center; }
+        header h1 { margin: 0; font-size: 2rem; }
+        nav { margin-top: 10px; }
+        nav a { color: white; margin: 0 10px; text-decoration: none; font-weight: bold; }
+        nav a:hover { text-decoration: underline; }
+        main { max-width: 900px; margin: 20px auto; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
+        h2 { color: #4CAF50; }
+        p { line-height: 1.6; }
+        footer { text-align: center; padding: 15px; background: #333; color: white; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Luciane Marketing Digital</h1>
+        <nav>
+            <a href="#">Início</a>
+            <a href="#">Artigos</a>
+            <a href="#">Contato</a>
+        </nav>
+    </header>
+    <main>
+        <h2>Bem-vindo ao meu site!</h2>
+        <p>Olá, eu sou <strong>Luciane Sousa</strong>, apaixonada por marketing digital e formas criativas de gerar renda online. 
+        Este site foi criado para compartilhar dicas, estratégias e oportunidades para quem quer conquistar mais liberdade financeira.</p>
+
+        <h2>O que você vai encontrar aqui</h2>
+        <ul>
+            <li>💡 Dicas de marketing digital</li>
+            <li>💰 Estratégias para ganhar dinheiro online</li>
+            <li>📈 Ideias de negócios lucrativos</li>
+            <li>📱 Ferramentas e aplicativos para facilitar sua vida</li>
+        </ul>
+
+        <p>Este é apenas o início! Em breve, novos artigos e conteúdos exclusivos estarão disponíveis.</p>
+    </main>
+    <footer>
+        <p>&copy; 2025 Luciane Marketing Digital - Todos os direitos reservados</p>
+    </footer>
+</body>
+</html>
